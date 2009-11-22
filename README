@@ -1,6 +1,17 @@
 ###########
 # READ ME #
 ###########
+###########################################################################
+   __                                   _               _     _           #
+  / _|                                 | |             | |   | |       	  # 
+ | |_ __ _ _ __ _ __ ___   ___ _ __ ___| |__  _   _  __| | __| |_   _     #  
+ |  _/ _` | '__| '_ ` _ \ / _ \ '__/ __| '_ \| | | |/ _` |/ _` | | | |    #  
+ | || (_| | |  | | | | | |  __/ |  \__ \ |_) | |_| | (_| | (_| | |_| |    #  
+ |_| \__,_|_|  |_| |_| |_|\___|_|  |___/_.__/ \__,_|\__,_|\__,_|\__, |    #  
+                                                                 __/ |    #
+                                                                |___/     #
+									  #
+###########################################################################
 
 # Project Name:- Farmers buddy
 
@@ -10,6 +21,7 @@ Arjun Ramnani
 Deepak Bhati
 Brajesh Suman
 
+# Abstract:-
 The project is being made as part of IBM's TGMC (The Great Mind Challenge) competition.
 It is the agriculture portal which provides solutions to small farmers and agriculture students of India.
 Besides Salt & fertilizer analysis for particular region this portal also helps farmers to know about 
